@@ -1,0 +1,123 @@
+{
+  "name": "Arun Selvamani",
+  "position": "Principal Engineer",
+  "pronunciation": "Aroon",
+  "securitysummary": "Development and implementation of cutting-edge technologies to fortify container environments and protect them from potential threats. My expertise lies in building robust security frameworks, identifying vulnerabilities, and implementing measures to ensure the integrity and confidentiality of containerized applications.  Helping customers adhere to FedRamp , GDPR and PCI standards. Passionate about AI and used Deep Learning for Malware detections and to find anomalies with runtime detection .  I successfully led the development and implementation of API Gateway at Qualys.Led the development and implementation of this critical project from inception to completion. Single-handedly added a wide range of essential features significantly enhancing its functionality and value for Qualys and its clients.",
+  "professionalsummary": "Software Architect and Full-Stack developer with eighteen years of IT experience, including supervision and technical involvement in many complete project life cycles. Attributes include the ability to view a business both strategically and tactically and derive lasting designs. Patience and understanding as regards to the mentoring of and guidance for team members especially in the more abstract principles of good design.",
+  "technialsummary": "Experienced with various technologies to model for the best solution. Includes methodologies (Agile, RUP), design (UML, SOA), Java & related technologies (Spring, Akka, Web Service, AOP , Hibernate, JEE), databases (Oracle, MySQL, SQL Server), NoSQL (Cassandra, Hadoop and MongoDB), UI (HTML, JavaScript, NextJs).",
+  "technologies": [
+     "Spring Boot" , "Redis" , "Cassandra" ,"Elastic", "Kubernetes","Python","Tensorflow",
+     "Spring Cloud gateway" , "Spring Boot" , "Reactive framework" ,
+     "Spark" , "Scala" , "Spring Web", "Hive", "Kafka", "Presto", "Airflow", "HDFS", "S3",
+     "Play framework", "Akka", "Scala", "Node.js" ,"Storm",
+     "Spring framework", "Mongo" , "Spring Batch" , "Spring MVC" , "Integration" , "Solr Cloud" ,
+     "Node.js","Docker",  "Maven" , "Jenkins"
+  ],
+  "notableachievements": ["Prime Engineer for Qualys Gateway. Provides a secure interface to data , logic and functionality to back-end services. High level responsibilities of the gateway are Authentication , Rate limiting and Protocol Conversion.",
+    "Designed and integrated Qualys apps with Malware Detection Service powered by DeepLearning",
+    "Continuous Vulnerabilty Assessment of Container Images providing automated Risk assessment"],
+  "careergoal": "Seasoned professional with extensive expertise in architecture and design, leveraging a strong foundation across multiple programming languages. My experience includes developing and delivering fault-tolerant, high-volume applications in diverse project environments. My career ambition is to further grow as a solutions architect and drive greater impact through innovative, scalable designs and strategic technical leadership.",
+  "blogs": [
+    "https://2minsecurity.blogspot.com",
+    "https://2minai.blogspot.com"
+  ],
+  "aboutme": "Engineer Dad Mountain Biker",
+  "skills": [
+    "java","python","spring","containers","kubernetes","akka","scala"
+  ],
+  "experience": "20+ years in software industry worked in top bay area companies",
+  "projects": [
+    {
+      "company": "Qualys",
+      "position": "Principal Engineer",
+      "startdate": "Mar-2018",
+      "enddate": "present",
+      "description": "Kubernetes & Container Security Feature development - Continuous Assessment of Images for Vulnerability and Risk Assessment , Malware Analysis using Deep Learning , Tagging Support , Rescan Integration , SBOM https://www.qualys.com/apps/container-security/ XDR (Extended Detection and Response )- Redesign Collection Framework .  Designed and Implemented API Gateway@Qualys"
+    },
+    {
+      "company": "Cignex",
+      "position": "Software Architect",
+      "startdate": "Jun-2011",
+      "enddate": "Mar-2018",
+      "description": "Scan&Go Migration to .COM https://www.samsclub.com/sams/pagedetails/content.jsp?pageName=scan-and-go Account Migration and Membership Service development for Pangaea Technologies : Spring framework ,Kafka , Camel ,Cassandra , Oracle  DCIM @ Equinix Design and Development of DCIM  Technologies : Play framework , Akka , Redis , Kafka , Storm ,Cassandra , Hadoop,node.js , OrientDB , Redis   Design and Development of PUE ( Power Usage Efficiency ).Re-architecture of existing model to get instantaneous readings from the Power Meters , by publishing data to Kafka and Processing using Storm topology  Technologies : Play framework , Akka , Kafka , Storm ,Cassandra , Hadoop  Cisco Networking Academy ( https://www.netacad.com/ ) part of NetSpace platform is corporate social group in Cisco. It's a Educational platform where people can learn online .   Redesign NetAcad portlets to use REST API for read/write from Mongo . Re-architecture improves performance and is optimized for global data access . It's provisioned by distributed data access that are replicated globally.  Technologies : MongoDB , Spring , Spring MVC , Spring Data , Web Services , Oracle , Liferay  Cisco Networking Academy ( https://www.netacad.com/ ) part of NetSpace platform is corporate social group in Cisco. It's an online Educational platform .   Refactored current NetAcad/Liferay build and deployment process using Maven and Jenkins Built pipeline using Docker/Vagrant container , and considerably reduced build/deploy effort Technologies : Docker , Maven , Jenkins   Engaged with Cisco–extendMedia to align the client’s requirements to their business needs. Implemented End-to-End solutions and successful delivery of high-end solutions for Cisco’s Clients  Technologies : Spring integration , Spring MVC , Web Services - SOAP /REST ,MongoDB , JBoss ESB, Workflows"
+    },
+    {
+      "company": "IBM",
+      "position": "Sterling IBM eCommerce Consultant",
+      "startdate": "Jan-2011",
+      "enddate": "Jun-2011",
+      "description": "Led the design and development of a Web Channel tool for xpedx.  Gathered requirements for customizing UI and created rapid / rich UI prototype. Technique allowed a more definitive sense of application functionality than offered by storyboarding. Integrated the Catalog with customers inventory system. Recommended and established new business processes to compliment application."
+    },
+    {
+      "company": "eBay",
+      "position": "Software Consultant",
+      "startdate": "Dec-2009",
+      "enddate": "Jan-2011",
+      "description": "Developed the Compensation tools implementing rules governing the various eBay units. Made recommendations based on in-depth analysis and Optimized the Data Access Layer for better performance leading to considerable improvement in user experience. Developed and Implemented effective deploy solution to the eBay production environment."
+    },
+    {
+      "company": "Senior Software Consultant",
+      "position": "Stanford University School of Medicine",
+      "startdate": "Apr-2008",
+      "enddate": "Dec-2008",
+      "description": "Led the design and development of postdoc module including setting up data and functionality. Developed Oracle PL/SQL for getting postdoc data from source system. Made recommendations based on resulting in-depth analysis to improve batch process for getting publications through WebService. Oversaw production rollout and provided follow up support."
+    },
+    {
+      "company": "Senior Software Consultant",
+      "position": "Cisco Systems",
+      "startdate": "Jul-2006",
+      "enddate": "Mar-2008",
+      "description": "Labman2 is an inventory management tool used by Customer Proof of Concept labs. Application provides Inventory management and Reservation capabilities for Customer visits. It’s also used for Entering RMA, Demo Depot orders and Loaners between Labs. Managers use the application to generate reports about Device utilization, Booking Costs etc. \nAutonomously designed and developed the application from Scratch. Responsibilities included setting up database, web environment and LDAP.  UI Prototyping using Velocity templates and Ajax. Developing handled module for effectively entering lab inventory. Implemented JFreechart for showcasing graphs and rich ui reports. Successful implementation at CPOC- San Jose, led to the toll out of application across multiple labs at Cisco."
+    },
+    {
+      "company": "Software Engineer",
+      "position": "Zensar Technologies  ",
+      "startdate": "Oct-1998",
+      "enddate": "July-2006",
+      "description": "Worked for various clients implementing solutions using Java and Oracle."
+    }
+  ],
+  "education": "Bachelors of Engineering , Electronics and Instrumentation",
+  "university": "Bharathiar University",
+  "certifications": [
+    {
+      "name": "Build AI Agents and Automate Workflows with n8n",
+      "issuedBy": "LinkedIn",
+      "issuedDate": "Aug 2025"
+    },
+    {
+      "name": "Model Context Protocol (MCP): Hands-On with Agentic AI",
+      "issuedBy": "LinkedIn",
+      "issuedDate": "Aug 2025"
+    },    {
+      "name": "Ethical Hacking: The Complete Malware Analysis Process",
+      "issuedBy": "LinkedIn",
+      "issuedDate": "Nov 2024"
+    },    {
+      "name": "Generative AI: Working with Large Language Models",
+      "issuedBy": "LinkedIn",
+      "issuedDate": "Oct 2024"
+    },    {
+      "name": "Apache Spark Deep Learning Essential Training",
+      "issuedBy": "LinkedIn",
+      "issuedDate": "Sep 2024"
+    },    {
+      "name": "Neural Networks and Convolutional Neural Networks Essential Training",
+      "issuedBy": "LinkedIn",
+      "issuedDate": "Sep 2024"
+    },    {
+      "name": "Learning Azure Kubernetes Service (AKS)",
+      "issuedBy": "LinkedIn",
+      "issuedDate": "Aug 2024"
+    },    {
+      "name": "Machine Learning with Python: Logistic Regression",
+      "issuedBy": "LinkedIn",
+      "issuedDate": "Aug 2024"
+    },    {
+      "name": "Big Data Analysis with Spark and Scala",
+      "issuedBy": "Coursera",
+      "issuedDate": "Aug 2017"
+    }
+  ],
+  "softskills": ["technical leadership","presentation and communication","mentor engineers","lifelong learner"]
+}
