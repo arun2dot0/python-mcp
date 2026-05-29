@@ -1,10 +1,5 @@
 ## MCP Server
-MCP server that provides integration for
-getting all the person information 
-
-Also itegration to get details from Rag for blog search
-There are multiple test scenarios . Tested with the streaming version
-
+Fun MCP Starter project
 
 # Python version requirement
 python>=3.10
@@ -21,22 +16,40 @@ httpx[sse]
 
 # setup local environment
 
-python3 -m venv myenv
-uv venv myenv -p 3.11
-source myenv/bin/activate 
-uv add openai-agents
-pip install "uvicorn[standard]"
-
-uv pip install -r requirements.txt
+python3.13 -m venv myenv
+source myenv/bin/activate
+pip install -U pip setuptools wheel
+pip install -r requirements.txt
 
 
-# Debug what is in the port
-sudo lsof -i :8000
-
-
-# Using mcp with streaming option - Tested
+# Test Run
 Local run 
  uv run server.py
 
-Server run 
-nohup uvicorn server:app --reload --log-level error --host 0.0.0.0 --port 8080 &
+make sure there are no errors and exit ,we will call this from claude
+
+# claude config
+
+```
+"mcpServers": {
+    "fun-mcp": {
+      "command": "uv",
+      "args": [
+        "--directory",
+        "/project-folder/fun-mcp",
+        "run",
+        "server.py"
+      ],
+      "env": {}
+    }
+  },
+ ```
+
+
+ # debugging
+
+ if needed tail logs to see logs and fix if required
+
+ ```
+ tail -n 20 -F ~/Library/Logs/Claude/mcp*.log
+ ```
