@@ -1,0 +1,31 @@
+{
+  "name": "Arun Intelligence",
+  "description": "Fun project developed to show AI Agent integration with MCP and RAG",
+  "technologies": [
+    "Java",
+    "Spring AI",
+    "Python ( pydantic )",
+    "NextJS"
+  ],
+  "references": [
+    "https://github.com/TheOrcDev/ai-elements",
+    "https://github.com/gitdagray/nextjs-ai-chat",
+    "https://github.com/danvega/spring-ai-workshop",
+    "https://github.com/danvega/kcdc-mcp"
+  ],
+  "promptsuggestions":[
+     "Describe this project",
+     "What are teh technologies used in this project",
+     "What is Arun's latest project",
+     "How to pronounce Arun",
+     "Arun's certifications",
+     "Compare Arun with Rajinikanth",
+     "Arun's main skills",
+     "Some funfacts about Arun",
+     "What's Arun's blog",
+     "What sports does he play",
+     "Tell me about Arun's notable achievements",
+     "Provide me Arun's professional summary" ,
+     "Does Arun have experience with redis"
+  ]
+}
